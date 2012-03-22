@@ -1,4 +1,0 @@
-This is my HADOOP experiment repository. Initially, it's WordCount from the tutorial, but it normalizes the words
-by removing some punctuation and making them lower-case.
-
-Next steps are to move from simply counting to storing the index location of each occurrence of each word, aka indexing.
